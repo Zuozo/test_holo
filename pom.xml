@@ -66,9 +66,9 @@
             <version>33.2.1-jre</version>
         </dependency> -->
         <dependency>
-            <groupId>com.gitee.jmash</groupId>
-            <artifactId>jmash-jobs-lib</artifactId>
-            <version>0.0.1</version>
+            <groupId>aws.smithy.kotlin</groupId>
+            <artifactId>smithy-rpcv2-protocols</artifactId>
+            <version>1.2.15</version>
         </dependency>
     </dependencies>
 </project>
